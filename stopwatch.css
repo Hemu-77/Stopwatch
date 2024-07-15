@@ -1,0 +1,84 @@
+html{
+    background-color: bisque;
+}
+
+#inner-div{
+    height: 400px;
+    width: 400px;
+    border : 2px solid black;
+    align-items: center;
+    margin: 100px 250px 250px 530px;
+    border-radius: 50%;
+    background-color: rgb(18, 138, 198);
+}
+
+#timer{
+    width: 270px;
+    height: 70px;
+    margin-top: 90px;
+    padding-left: 80px;
+    font-size: 100px;
+    color: rgb(64, 11, 239);
+}
+
+#start{
+    margin-top: 100px;
+    margin-left: 80px;
+    width: 120px;
+    height: 40px;
+    color: chartreuse;
+    background-color: forestgreen;
+    border-radius: 10%;
+    font-size: medium;
+}
+
+#start:hover{
+    background-color: darkgreen;
+    font-size: large;
+}
+
+#stop{
+    width: 120px;
+    height: 40px;
+    color: crimson;
+    background-color: rgb(94, 25, 25);
+    border-radius: 5%;
+    font-size: medium;
+}
+
+#stop:hover{
+    background-color: rgb(86, 7, 7);
+    font-size: large;
+}
+
+#reset{
+    width: 120px;
+    height: 40px;
+    margin-top : 15px;
+    margin-left: 140px;
+    background-blend-mode: hard-light;
+    color: rgb(33, 31, 18);
+    background-color: rgb(220, 214, 23);
+    border-radius: 5%;
+    font-size: medium;
+}
+
+#reset:hover{
+    background-color: rgb(182, 185, 13);
+    font-size: large;
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 35px;
+    
+}
+
+header{
+    background-image: linear-gradient(rgb(225, 177, 17), green );
+}
+
+#whole{
+    background-color: whitesmoke;
+}
