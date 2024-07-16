@@ -9,7 +9,9 @@ About Project
 ** It mainly consist of three buttons
 
 --> start = to start timer
+
 --> stop = to stop the time at paerticular time
+
 --> reset = to reset it to 00
 
 
